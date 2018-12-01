@@ -1,0 +1,13 @@
+.boardContainer{
+    background: #ddffdd;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+#canvas{
+    border: 1px solid #ddd;
+    width: 50%;
+    height: 70%;
+    margin: auto;
+}
