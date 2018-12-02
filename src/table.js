@@ -11,7 +11,7 @@ class Table extends Component{
                <TableHeader />
                <TableBody
                 characterData = { characterData }    
-                removeCharacter={this.props.removeCharacter}            
+                removeCharacter={ this.props.removeCharacter }
                 />                
             </table>
         );

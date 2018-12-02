@@ -6,8 +6,6 @@
 }
 
 #canvas{
-    border: 1px solid #ddd;
-    width: 50%;
-    height: 70%;
+    /* border: 1px solid #ddd;     */
     margin: auto;
 }
